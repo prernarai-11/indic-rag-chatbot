@@ -18,5 +18,11 @@ sentence-transformers
 transformers
 torch
 
-# HTTP requests (for Ollama)
+# Groq API
+groq
+
+# Environment variables
+python-dotenv
+
+# HTTP requests
 requests
