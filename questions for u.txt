@@ -1,0 +1,9 @@
+Can you explain these 8 things without looking?
+Why do we chunk documents?
+Why embeddings instead of keyword matching?
+Why Chroma/vector DB?
+What exactly happens during ingestion?
+What happens when user asks a question?
+Why use retrieval before the LLM?
+Why query expansion?
+Why Ollama + local LLM?
