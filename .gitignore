@@ -3,3 +3,6 @@ vector_store/
 venv/
 __pycache__/
 *.pyc
+*.docx
+*.txt
+~$*
