@@ -1,22 +1,13 @@
-# PDF loading
 pymupdf
-
-# LangChain core
 langchain
 langchain-community
 langchain-huggingface
 langchain-chroma
 langchain-text-splitters
-
-# Vector store
 chromadb
-
-# Embeddings
 sentence-transformers
-
-# Transformers (for embedding model)
 transformers
 torch
-
-# HTTP requests (for Ollama)
 requests
+groq
+python-dotenv
